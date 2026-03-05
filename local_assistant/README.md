@@ -111,7 +111,3 @@ Modify the input query in `main.py`:
 ```python
 result = Runner.run_sync(local_assistant, "Your question here")
 ```
-
-## License
-
-MIT
