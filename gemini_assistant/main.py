@@ -23,8 +23,7 @@ gemini_assistant: Agent = Agent(
 )
 
 result = Runner.run_sync(
-    gemini_assistant,
-    "Explain what an AI agent is in one sentence."
+    gemini_assistant, "Explain what an AI agent is in one sentence."
 )
 
 print(result.final_output)
