@@ -94,7 +94,3 @@ first_agent/
 - [OpenAI Agents SDK Documentation](https://github.com/openai/openai-agents-python)
 - [Google AI Studio](https://aistudio.google.com/)
 - [Gemini API Documentation](https://ai.google.dev/)
-
-## License
-
-MIT

@@ -100,7 +100,3 @@ gemini_assistant: Agent = Agent(
     model=external_model,
 )
 ```
-
-## License
-
-MIT
