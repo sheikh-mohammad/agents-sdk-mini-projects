@@ -1,7 +1,7 @@
 [project]
 name = "local-assistant"
-version = "0.4.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Locally-running AI assistant powered by Google's Gemini model"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
