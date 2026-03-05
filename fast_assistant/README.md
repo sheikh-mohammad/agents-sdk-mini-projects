@@ -88,7 +88,3 @@ fast_assistant/
 | openai | >=2.24.0 | OpenAI Python client |
 | openai-agents | >=0.10.2 | OpenAI Agents SDK |
 | python-dotenv | >=1.2.1 | Environment variable management |
-
-## License
-
-MIT
